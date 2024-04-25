@@ -1,5 +1,5 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hotfix1");
+        System.out.println("Feature 1");
     }
 }
