@@ -1,18 +1,11 @@
-## Getting Started
+# COMANDOS
+- Para crear ramas he usado el comando "create branch"
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+- Para registrar los cambios he utilizado el comando "commit" con un mensaje informativo sobre los cambios que he realizado
 
-## Folder Structure
+- Para subir los commits he usado el comando "push"
 
-The workspace contains two folders by default, where:
+- Y para combinar ramas he usado el comando "merge"
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+![Ramas](ramas.png)
